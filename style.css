@@ -1,0 +1,38 @@
+h1, h3, form {
+  text-align: center;
+}
+
+.inp {
+    height: 25px;
+}
+
+input[type="text"] {
+    width: 50vh;
+    text-align: center;
+    font-size: 20px;
+}
+
+body {
+  background: linear-gradient(to right, #ADD8E6, pink);
+}
+
+/* Editing the display message */
+div {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#github {
+  height: 5%;
+  width: 5%;
+}
+
+#exchange {
+  height: 45%;
+  width: 45%;
+  /* This is going to align the image to the center */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
